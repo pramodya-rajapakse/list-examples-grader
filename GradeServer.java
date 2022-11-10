@@ -60,3 +60,4 @@ class GradeServer {
     }
 }
 
+// /grade?repo=<directory>
